@@ -1,4 +1,4 @@
 SID-browser
 ===========
 
-Simple app iamed to explore SID-s of local users on windows computer
+Simple app aimed to explore SID-s of local users on windows computer
